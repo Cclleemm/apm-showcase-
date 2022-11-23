@@ -1,0 +1,8 @@
+com/packt/cardatabase/domain/Owner.class
+com/packt/cardatabase/ConsumingRESTApi.class
+com/packt/cardatabase/domain/OwnerRepository.class
+com/packt/cardatabase/MyCorsConfiguration.class
+com/packt/cardatabase/ElasticApmConfig.class
+com/packt/cardatabase/domain/CarRepository.class
+com/packt/cardatabase/CardatabaseApplication.class
+com/packt/cardatabase/domain/Car.class
